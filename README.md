@@ -1,4 +1,4 @@
 
-![download](https://github.com/Subarno2098/EAGLE-GitHub/assets/93378063/cfa1691e-dd6b-4e86-badc-202cae3c5ba0)
+![EAGLE_mini_w_UW_logo_r (1)](https://github.com/Subarno2098/EAGLE-GitHub/assets/93378063/5412f617-8061-435b-9916-89925f90c1b2)
 # EAGLE-GitHub
 ### Storing and Documenting the performed work in the EAGLE Masters Program
